@@ -1,0 +1,37 @@
+# ==============================
+# WINDOWS
+# ==============================
+
+desktop.ini
+Thumbs.db
+
+
+# ==============================
+# PYTHON
+# ==============================
+
+__pycache__/
+*.pyc
+*.pyo
+
+
+# ==============================
+# VS CODE
+# ==============================
+
+.vscode/
+
+
+# ==============================
+# ARQUIVOS TEMPORÁRIOS DO EXCEL
+# ==============================
+
+~$*.xlsx
+
+
+# ==============================
+# ARQUIVO GERADO PELA AUTOMAÇÃO
+# ==============================
+
+Banco_Jogadores_Cristiano_Atualizado.xlsx
+Banco_Jogadores_Atualizado.xlsx
