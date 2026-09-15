@@ -3,7 +3,6 @@
 </p>
 
 # ⚽ Banco de Jogadores — Scouting de Futebol
-# ⚽ Banco de Jogadores — Scouting de Futebol
 
 Projeto desenvolvido para organizar e facilitar a consulta de informações de jogadores de futebol, reunindo dados de atletas em uma base estruturada para apoio à análise e ao scouting.
 
